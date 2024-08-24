@@ -148,4 +148,3 @@ def blink(text, pos, delay):
             text[2] = option(choice)
     enter()
 main()
-
